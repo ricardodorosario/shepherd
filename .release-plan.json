@@ -15,8 +15,8 @@
     },
     "shepherd.js": {
       "impact": "patch",
-      "oldVersion": "14.5.0",
-      "newVersion": "14.5.1",
+      "oldVersion": "14.5.1",
+      "newVersion": "14.5.2",
       "tagName": "latest",
       "constraints": [
         {

@@ -1,6 +1,6 @@
 {
   "name": "shepherd.js",
-  "version": "14.5.1",
+  "version": "14.5.2",
   "description": "Guide your users through a tour of your app.",
   "keywords": [
     "site tour",
@@ -54,7 +54,7 @@
   "dependencies": {
     "@floating-ui/dom": "^1.7.0",
     "@scarf/scarf": "^1.4.0",
-    "deepmerge-ts": "^7.1.1"
+    "deepmerge-ts": "^8.0.2"
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.15.3",

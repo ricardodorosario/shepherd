@@ -1,5 +1,9 @@
 # Changelog
 
+## Release (2026-11-17)
+
+* shepherd.js 14.5.2 (patch)
+
 ## Release (2025-07-23)
 
 * react-shepherd 6.1.9 (patch)
